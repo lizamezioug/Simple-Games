@@ -14,13 +14,13 @@ These projects were my **first personal projects**, developed while following tu
    - Jumping obstacles  
    - Incremental speed and difficulty  
 
-2. **Graduation Catch   
+2. **Graduation Catch** 
    - Player controls a character to catch falling graduation caps  
    - Shoot projectiles to interact with falling items  (increase score)
    - Game over if a falling cap touches the player
    - Score system with a target score (2024) for graduation  
    - Victory state when target score is reached
-   - Keyboard controls: arrow keys for movement, spacebar for jump/shoot  
+   - Keyboard controls: arrow keys for movement, spacebar for shoot  
    - Sound effects for shooting, collisions, background music, and victory/defeat  
    - Supports window resizing with responsive background scaling
   
@@ -43,9 +43,8 @@ These projects were my **first personal projects**, developed while following tu
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pygame-000000?logo=pygame&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -57,12 +56,12 @@ These projects were my **first personal projects**, developed while following tu
 git clone https://github.com/lizamezioug/Simple-Games.git
 cd Simple-Games
 ```
-2.Install Pygame:
+2. Install Pygame:
 ```bash
 pip install pygame
 ```
 
-3.Run a game:
+3. Run a game:
 ```bash
 python graduation.py
 ```
